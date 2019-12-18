@@ -1,6 +1,6 @@
 # vcrypto_v1
 
-A new Flutter application.
+A new Flutter application for fetching the data of Cryptocurrencies using http get through coinMarketCap API and displaying them in a list  
 
 ## Getting Started
 
